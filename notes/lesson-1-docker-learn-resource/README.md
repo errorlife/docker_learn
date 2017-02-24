@@ -11,4 +11,4 @@ Docker学习资源
  
 > 如果觉得我的文章对您有帮助，请随意打赏～
 
-<img src="../../res/wxmoney.jpg" width = "400" height = "400" alt="图片名称" align=center />
+<img src="../../res/wxmoney.jpg" width = "372" height = "432" alt="图片名称" align=center />
