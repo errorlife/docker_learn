@@ -78,4 +78,4 @@ IP地址必须分配给主机操作系统可用的网络接口。`swarm`中的�
 设置环境后，就可以创建一个[群集](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/)
 > 如果觉得我的文章对您有帮助，请随意打赏～
 
-<img src="../../res/wxmoney.jpg" width = "372" height = "432" alt="图片名称" align=center />
+<img src="../../../res/wxmoney.jpg" width = "372" height = "432" alt="图片名称" align=center />
