@@ -3,7 +3,7 @@ lesson-4-manage-a-swarm
 [Manage-a-swarm(官方文档翻译)](https://docs.docker.com/engine/swarm/)
 
 笔记列表
-- Class 3 [Getting started with swarm mode](notes/class-3-getting-started-with-swarm-mode/README.md)
+- Class 3 [Getting started with swarm mode](class-3-getting-started-with-swarm-mode/README.md)
 
 如果笔记有什么纰漏，或者有问题都可以到[Issue区](https://github.com/errorlife/docker_learn/issues)讨论 :)
 
