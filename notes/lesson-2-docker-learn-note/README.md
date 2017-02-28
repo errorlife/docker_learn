@@ -603,3 +603,7 @@ Dockerfile是一个文本格式的配置文件，用户可以使用Dockerfile快
 - [Docker技术入门与实战 杨保卫 戴王剑 曹亚伦编著](https://www.gitbook.com/book/yeasy/docker_practice/details)
 - [Docker学习笔记](https://github.com/mylxsw/growing-up/blob/master/doc/Docker%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.md)
 - [官方文档](https://docs.docker.com/)
+
+> 如果觉得我的文章对您有帮助，请随意打赏～
+
+<img src="../../res/wxmoney.jpg" width = "372" height = "432" alt="图片名称" align=center />

@@ -88,4 +88,7 @@ $ touch Dockerfile && vi Dockerfile # 编写Dockefile
 [通过Dockerfile和通过commit生成镜像有什么区别？](http://www.aixchina.net/Question/172781)
 网络素材
 
-    
+
+> 如果觉得我的文章对您有帮助，请随意打赏～
+
+<img src="../../res/wxmoney.jpg" width = "372" height = "432" alt="图片名称" align=center />
