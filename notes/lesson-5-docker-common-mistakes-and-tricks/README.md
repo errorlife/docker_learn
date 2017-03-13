@@ -5,7 +5,7 @@ Docker日常坑和技巧
 ### 报错一：docker: Error response from daemon: Conflict. The name "/xxx" is already in use by container
 #### 解决方案:
     $ docker ps -a                  #找到xxx的container_id
-$ docker stop xxx(container_id) # 停止该容器
+	$ docker stop xxx(container_id) # 停止该容器
     $ docker rm xxx(container_id)   # 删除该容器
 
 #### 执行过程(如果没有停止就删除容器，会报:you cannot remove a running container错误)：
